@@ -1,0 +1,6 @@
+C:\Projects\Sorting_Selection\Sorting_Selection\bin\Debug\Sorting_Selection.exe.config
+C:\Projects\Sorting_Selection\Sorting_Selection\obj\Debug\Sorting_Selection.csprojResolveAssemblyReference.cache
+C:\Projects\Sorting_Selection\Sorting_Selection\bin\Debug\Sorting_Selection.exe
+C:\Projects\Sorting_Selection\Sorting_Selection\bin\Debug\Sorting_Selection.pdb
+C:\Projects\Sorting_Selection\Sorting_Selection\obj\Debug\Sorting_Selection.exe
+C:\Projects\Sorting_Selection\Sorting_Selection\obj\Debug\Sorting_Selection.pdb
